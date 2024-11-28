@@ -10,8 +10,8 @@ export const APP_INFO: AppInfo = {
   default_language: 'en',
 }
 
-export const isShowPrompt = true
-export const promptTemplate = 'I want you to act as a javascript console.'
+export const isShowPrompt = false
+export const promptTemplate = 'How I create a new subscription?'
 
 export const API_PREFIX = '/api'
 
