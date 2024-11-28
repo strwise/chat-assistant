@@ -3,9 +3,9 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
-  copyright: '',
+  title: 'StreamWise Bot Assistant',
+  description: 'An Assistant that help users with StremWise Platform issues.',
+  copyright: 'Mimir Tech',
   privacy_policy: '',
   default_language: 'en',
 }
